@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "5c49ca15e741efe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed82151f3b007fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d6e77e15fdbb39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source_slides/B3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c848b36a4adb3c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "762c6fe6f0560f28",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "481e2cc8da4519d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf355ea87a03f28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73296edea87fd89d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b931e6f78eead549",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9b7e943b31c0665",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "085e2a499d3e1281",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dcfd69edfad5831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7331be743e4867c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source_slides/B3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19205dfa45ba28e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source_slides/B3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96e76fd70edcc07e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17d796743334dc18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source_slides/B3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "54d6e77e15fdbb39",
+  "lastOpenFiles": [
+    "talks/B3/media/183e9e0918ae84bbdba0e566dd06a5e7_MD5.jpg",
+    "talks/B3/media/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
+    "talks/B3/media",
+    "media/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
+    "source_slides/B3.md",
+    "media/burch_continuity_2.png",
+    "media/burch_continuity_1.png",
+    "media/book_and_article_2.png",
+    "media/godfather_continuity.png",
+    "media/183e9e0918ae84bbdba0e566dd06a5e7_MD5.jpg",
+    "assets/images/183e9e0918ae84bbdba0e566dd06a5e7_MD5.jpg.md",
+    "assets/images",
+    "assets",
+    "source_slides",
+    "media"
+  ]
+}
