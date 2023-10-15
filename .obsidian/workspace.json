@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/B3_1.md",
+                "file": "source_slides/B3_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/B3_1.md",
+                "file": "source_slides/B3_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/B3_1.md",
+                "file": "source_slides/B3_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/B3_1.md"
+                "file": "source_slides/B3_2.md"
               }
             }
           },
@@ -184,8 +184,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4f597cb0f55a2543",
+  "active": "25a082bea50dccff",
   "lastOpenFiles": [
+    "source_slides/B3_1.md",
     "talks/B3_1/media/cover_3.png",
     "talks/B3_1/media/AI_search.png",
     "talks/B3_1/media/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
@@ -199,7 +200,6 @@
     "talks/B3_1/plugin/chalkboard/img/boardmarker-orange.png",
     "talks/B3_1/plugin/chalkboard/img/boardmarker-purple.png",
     "talks/B3_1/plugin/chalkboard/img/boardmarker-red.png",
-    "talks/B3_1/plugin/chalkboard/img/boardmarker-yellow.png",
     "talks/B3_1/plugin/chalkboard/img",
     "talks/B3_1/plugin/chalkboard/plugin (copy).js",
     "talks/B3_1/plugin/chalkboard/plugin.js",
@@ -213,7 +213,6 @@
     "talks/B3_1/plugin/menu/CONTRIBUTING.md",
     "talks/B3_1/plugin/menu/README.md",
     "source_slides/B3_2.md",
-    "source_slides/B3_1.md",
     "source_slides/Untitled.md",
     "index.md",
     "assets/images/183e9e0918ae84bbdba0e566dd06a5e7_MD5.jpg.md"
