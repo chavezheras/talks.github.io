@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/B3_1.md",
+                "file": "source_slides/B3_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,21 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/B3_2.md",
+                "file": "source_slides/B3_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "4d5532ddf59709b1",
+        "id": "95208177b9253b01",
         "type": "tabs",
         "children": [
           {
-            "id": "4f597cb0f55a2543",
+            "id": "2348ca1508c87930",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -184,35 +183,41 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "25a082bea50dccff",
+  "active": "2348ca1508c87930",
   "lastOpenFiles": [
+    "talks/B3_2/media/cover_3.png",
+    "talks/B3_2/media/burch_continuity_2.png",
+    "talks/B3_2/media/burch_continuity_1.png",
+    "talks/B3_2/media/godfather_continuity.png",
+    "talks/B3_2/media/computational_supercuts.png",
+    "talks/B3_2/media/shot_emotion_chart.jpeg",
+    "talks/B3_2/media/shot_scale_chart.jpeg",
+    "talks/B3_2/media/shot_histogram.jpeg",
+    "talks/B3_2/media/schot_scale_detector.jpg",
+    "talks/B3_2/media/ladybird_FER_1.jpeg",
+    "talks/B3_2/media/e3ee5592f9728d7d204e90a475a2a42f_MD5.jpg",
+    "talks/B3_2/media",
+    "talks/B3_2/plugin/chalkboard/README.md",
+    "talks/B3_2/plugin/chalkboard/_style.css",
+    "talks/B3_2/plugin/chalkboard/img",
+    "talks/B3_2/plugin/chalkboard/style.css",
+    "talks/B3_2/plugin/chalkboard/plugin.js",
+    "talks/B3_2/plugin/chalkboard/plugin (copy).js",
+    "talks/B3_2/plugin/chalkboard",
+    "talks/B3_2/plugin/chart/README.md",
+    "talks/B3_2/plugin/chart/plugin.js",
+    "talks/B3_2/plugin/chart/chart.min.js",
+    "talks/B3_2/plugin/chart",
+    "talks/B3_2/plugin/customcontrols/README.md",
+    "talks/B3_2/plugin/menu/CONTRIBUTING.md",
+    "talks/B3_2/plugin/menu/README.md",
     "source_slides/B3_1.md",
-    "talks/B3_1/media/cover_3.png",
-    "talks/B3_1/media/AI_search.png",
-    "talks/B3_1/media/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
-    "talks/B3_1/media",
+    "source_slides/B3_2.md",
     "talks/B3_1/plugin/chalkboard/README.md",
-    "talks/B3_1/plugin/chalkboard/_style.css",
-    "talks/B3_1/plugin/chalkboard/img/blackboard.png",
-    "talks/B3_1/plugin/chalkboard/img/boardmarker-black.png",
-    "talks/B3_1/plugin/chalkboard/img/boardmarker-blue.png",
-    "talks/B3_1/plugin/chalkboard/img/boardmarker-green.png",
-    "talks/B3_1/plugin/chalkboard/img/boardmarker-orange.png",
-    "talks/B3_1/plugin/chalkboard/img/boardmarker-purple.png",
-    "talks/B3_1/plugin/chalkboard/img/boardmarker-red.png",
-    "talks/B3_1/plugin/chalkboard/img",
-    "talks/B3_1/plugin/chalkboard/plugin (copy).js",
-    "talks/B3_1/plugin/chalkboard/plugin.js",
-    "talks/B3_1/plugin/chalkboard/style.css",
-    "talks/B3_1/plugin/chalkboard",
     "talks/B3_1/plugin/chart/README.md",
-    "talks/B3_1/plugin/chart/plugin.js",
-    "talks/B3_1/plugin/chart/chart.min.js",
-    "talks/B3_1/plugin/chart",
     "talks/B3_1/plugin/customcontrols/README.md",
     "talks/B3_1/plugin/menu/CONTRIBUTING.md",
     "talks/B3_1/plugin/menu/README.md",
-    "source_slides/B3_2.md",
     "source_slides/Untitled.md",
     "index.md",
     "assets/images/183e9e0918ae84bbdba0e566dd06a5e7_MD5.jpg.md"
